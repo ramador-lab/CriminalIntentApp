@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="new_crime" type="id" />
+    <item name="crime_report" type="id" />
+    <item name="crime_suspect" type="id" />
+    <item name="crime_camera" type="id" />
+    <item name="crime_photo" type="id" />
+</resources>
